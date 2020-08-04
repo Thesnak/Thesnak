@@ -4,8 +4,7 @@
 
 ## 👋 Introduction
 
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://avatars1.githubusercontent.com/u/45339003?s=460&u=c9aec4adad45e3d79f507982349475e51b4d184c&v=4' width='200"'>
+<img align='right' src='https://image.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg' width='200"'>
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) 
 
