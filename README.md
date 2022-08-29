@@ -1,47 +1,34 @@
+<h1 align="center">Hi 👋, I'm Mohamed Mahmoud Ali (Abu Obaida)</h1>
+<h3 align="center">A Bioinformatics and Data Science Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm Thesnak</h1>  
-<h3 align="center">A Bioinformatics and Computer Science student from Egypt</h3>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesnak&label=Profile%20views&color=0e75b6&style=flat" alt="thesnak" /> </p>
 
-## 👋 Introduction
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesnak" alt="thesnak" /></a> </p>
 
-<img align='right' src='https://image.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg' width='200"'>
+- 🌱 I’m currently learning **Data Science , AI**
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) 
+- 👨‍💻 All of my projects are available at [https://github.com/Thesnak](https://github.com/Thesnak)
 
-Hi guys, I'm **Mohamed**. I am a Muslim Bioinformatics and Computer Science student form Egypt.  contact me if you have same interesting or some questions!
+- 📝 I regularly write articles on [fb.com/mohamed.thesnak.official1](fb.com/mohamed.thesnak.official1)
 
-## 📫 Contact Me on Social Media
-**If you want to ask me any thing feel free to contact me in any time**
-<p align="center">  
-<a href="https://twitter.com/mohamed_thesnak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mohamed_thesnak" height="20" width="20" /></a>  
-<a href="https://linkedin.com/in/mohamed-thesnak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamed-thesnak" height="20" width="20" /></a>  
-<a href="https://stackoverflow.com/users/10811473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10811473" height="20" width="20" /></a>  
-<a href="https://fb.com/mohamed.thesnak.official1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mohamed.thesnak.official1" height="20" width="20" /></a>  
-<a href="https://instagram.com/mohamed_thesnak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohamed_thesnak" height="20" width="20" /></a>  
-<a href="https://www.behance.net/mohamedthesnak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="mohamedthesnak" height="20" width="20" /></a>  
-<a href="https://medium.com/@thesnak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@thesnak" height="20" width="20" /></a>  
+- 💬 Ask me about **Bioinformatics , PHP , Python , Front End , Graduation PRojects**
+
+- 📫 How to reach me **mohamed.mahmoud0726@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-thesnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-thesnak" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10811473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10811473" height="30" width="40" /></a>
+<a href="https://fb.com/mohamed.thesnak.official1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.thesnak.official1" height="30" width="40" /></a>
+<a href="https://instagram.com/mohamed_thesnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_thesnak" height="30" width="40" /></a>
+<a href="https://www.behance.net/mohamedthesnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedthesnak" height="30" width="40" /></a>
+<a href="https://medium.com/@thesnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thesnak" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thesnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thesnak" height="30" width="40" /></a>
 </p>
 
-## 💡 About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 🌱 I’m currently learning **Bioinformatics , Algorithms , Data Structures , DP ,DB**  
-  
-- 👨‍💻 All of my projects are available at [Thesnak](https://github.com/Thesnak)  
-  
-- 📝 I regulary write articles on [Facebook](https://www.facebook.com/mohamed.thesnak.official1)  
-  
-- 📫 How to reach me **medoali4444@gmail.com**  
-  
-- ⚡ Fun fact **Otaku ,Food Lover**  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesnak&show_icons=true&title_color=a71b1b&locale=en&layout=compact" alt="thesnak" /></p>
 
-
-## 💻 Open Source Work Stats
-
-![Thesnak's Github stats](https://github-readme-stats.vercel.app/api?username=Thesnak&show_icons=true)
-
-
-
-## Language and Technology 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p><img align="left" />
-    
-![Thesnak's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesnak&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesnak&show_icons=true&locale=en" alt="thesnak" /></p>
