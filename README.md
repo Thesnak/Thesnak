@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesnak" alt="thesnak" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science , AI**
+- 🌱 I’m currently learning **Data Science , AI , Bioinformatics**
+
+- 🔗 All of my links are available at [Portfolio](https://bit.ly/3vCNonG)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thesnak](https://github.com/Thesnak)
 
